@@ -1,0 +1,104 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platformer-level-1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "#kenney_tilemap-backgrounds_packed": {
+            "scaleInDock": 2
+        },
+        "C:/Users/emore/AppData/Local/Temp/767a9611-bb77-4d2a-bc40-27e2212dc437_mario-style-platformer-with-Phaser3.zip.437/source/assets/map.tmx": {
+            "scale": 0.4243333333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1051.0604870384918,
+                "y": 139.0416339355853
+            }
+        },
+        "C:/Users/emore/AppData/Local/Temp/767a9611-bb77-4d2a-bc40-27e2212dc437_mario-style-platformer-with-Phaser3.zip.437/source/assets/map.tmx#coin": {
+            "scaleInDock": 1
+        },
+        "C:/Users/emore/AppData/Local/Temp/767a9611-bb77-4d2a-bc40-27e2212dc437_mario-style-platformer-with-Phaser3.zip.437/source/assets/map.tmx#tiles": {
+            "scaleInDock": 1
+        },
+        "C:/Users/emore/Downloads/mario-style-platformer-with-Phaser3/source/assets/map.tmx": {
+            "scale": 0.4243333333333333,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 862.5294579732914,
+                "y": 351.13904163393556
+            }
+        },
+        "C:/Users/emore/Downloads/mario-style-platformer-with-Phaser3/source/assets/map.tmx#coin": {
+            "scaleInDock": 1
+        },
+        "C:/Users/emore/Downloads/mario-style-platformer-with-Phaser3/source/assets/map.tmx#tiles": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 563,
+                "y": 169
+            }
+        },
+        "platformer-level-1.tmx#gem": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#kenney_tilemap-backgrounds_packed": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1_background.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 169.66666666666663,
+                "y": 25.999999999999986
+            }
+        },
+        "platformer-level-1_background.tmx#kenney_tilemap-backgrounds_packed": {
+            "scaleInDock": 2
+        }
+    },
+    "last.exportedFilePath": "C:/Users/emore/OneDrive/Documents/LL/Edu/UCSC/2025-3 Spring/CMPM 120 GDX/CMPM 120 S6 Starter Platformer/StarterPlatformer/assets",
+    "last.imagePath": "C:/Users/emore/OneDrive/Documents/LL/Edu/UCSC/2025-3 Spring/CMPM 120 GDX/CMPM 120 S6 Starter Platformer/StarterPlatformer/assets",
+    "map.height": 15,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 24,
+    "map.tileWidth": 24,
+    "map.width": 30,
+    "openFiles": [
+        "platformer-level-1.tmx",
+        "platformer-level-1_background.tmx"
+    ],
+    "project": "Starter Platformer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "platformer-level-1_background.tmx",
+        "platformer-level-1.tmx",
+        "C:/Users/emore/Downloads/mario-style-platformer-with-Phaser3/source/assets/map.tmx",
+        "C:/Users/emore/AppData/Local/Temp/767a9611-bb77-4d2a-bc40-27e2212dc437_mario-style-platformer-with-Phaser3.zip.437/source/assets/map.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 24,
+        "width": 24
+    }
+}
